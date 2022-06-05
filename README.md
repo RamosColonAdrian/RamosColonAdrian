@@ -4,6 +4,7 @@
 </p>
 <p>Soy estudiante de <strong>desarrollo de aplicaciones multiplataforma</strong>.
 <br />¡Tecnologías que frecuento 👇!</p>
+
 - Java
 
 - MongoDB
