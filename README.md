@@ -2,7 +2,7 @@
    <img width="200" src="https://github.com/RamosColonAdrian/RamosColonAdrian/blob/main/19362653.png?raw=true" /><br>
    <h3>¡Hey there!👋🏻‍💻</h3>
 </p>
-<p>Soy estudiante de <strong>desarrollo de aplicaciones multiplataforma</strong>.
+<p>I am a student in cross-platform development</strong>.
    
  
 [![Twitter Badge](https://img.shields.io/badge/-@AdriRamos_01-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdriRamos_01)](https://twitter.com/AdriRamos_01)
