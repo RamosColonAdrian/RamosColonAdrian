@@ -1,4 +1,4 @@
-<img alt ="Logo" src="https://github.com/RamosColonAdrian/RamosColonAdrian/blob/main/eLRUBIORC.png"></img>
+<img alt ="Logo" src="https://github.com/RamosColonAdrian/RamosColonAdrian/blob/main/logo.png"></img>
 <h1>¡Hey there!👋🏻‍💻</h1>
 
 
