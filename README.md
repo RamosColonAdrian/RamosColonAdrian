@@ -3,7 +3,11 @@
    <h3 align="center">¡Hey 👋! Soy Adrian 👨🏻‍💻</h3>
 </p>
 <p>Soy estudiante de <strong>desarrollo de aplicaciones multiplataforma</strong>.
-
+   
+ 
+[![Twitter Badge](https://img.shields.io/badge/-@AdriRamos_01-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdriRamos_01) 
+[![Instagram Badge](https://img.shields.io/badge/-@AdriRamos_01-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/adriramos_01)](https://www.instagram.com/adriramos_01/) 
+[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adri%C3%A1n-ramos-col%C3%B3n/)](https://www.linkedin.com/in/adri%C3%A1n-ramos-col%C3%B3n/)
 ## My Teck Stack
 
 <p> 
