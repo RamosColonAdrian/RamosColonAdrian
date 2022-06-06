@@ -7,7 +7,7 @@
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <p> 
-   <img alt="Java" src="https://img.shields.io/badge/-java-DA502E?style=flat-square&logo=java" />   
+   <img alt="Java" src="https://img.shields.io/badge/-Java-DA502E?style=flat-square&logo=java" />   
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-D35400?style=flat-square&logo=html5&logoColor=ffffff" />   
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
