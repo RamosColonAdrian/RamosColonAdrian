@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-57D057?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-%23282C34?style=flat-square&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-F5B041?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-F5B041?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Java](https://img.shields.io/badge/-java-DA502E?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
