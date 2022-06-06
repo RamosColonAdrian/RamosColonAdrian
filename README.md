@@ -26,9 +26,7 @@
    <img alt="Python" src="https://img.shields.io/badge/-Python-F1C40F?style=flat-square&logo=Python&logoColor=white" />   
    <img alt="PHP" src="https://img.shields.io/badge/-PHP-825E91?style=flat-square&logo=php&logoColor=white" />   
    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-%23282C34?style=flat-square&logo=markdown" /> 
-   <img alt="XML" src="https://img.shields.io/badge/-XML-%23282C34?style=flat-square&logo=xml" />   
-   <img alt="XSD" src="https://img.shields.io/badge/-XSD-%23282C34?style=flat-square&logo=xsd" />   
-   <img alt="DTD" src="https://img.shields.io/badge/-DTD-%23282C34?style=flat-square&logo=dtd" />   
+  
 
 
 <p/>
@@ -37,7 +35,8 @@
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamosColonAdrian&show_icons=true)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamosColonAdrian&layout=compact)
-
+   
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=ramoscolonadrian" alt="visitors"></p>
 
 
 
