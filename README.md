@@ -7,7 +7,7 @@
 )](https://www.linkedin.com/in/adrián-ramos-colón-22587322b)
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-   <li>📚I'm currently a cross-platform development.</li>
+   <li>📚 I'm currently a cross-platform development.</li>
    <li>🧪 I'm learning about data science, machine learning and deep learning.</li>
 </ul>
 
