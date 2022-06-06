@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-F5B041?style=flat-square&logo=mysql&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Java](https://img.shields.io/badge/-java-DA502E?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-3498DB?style=flat-square&logo=Python&logoColor=white)
 
 
 
