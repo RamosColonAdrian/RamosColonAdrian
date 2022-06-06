@@ -4,7 +4,7 @@
 </p>
 <p>Soy estudiante de <strong>desarrollo de aplicaciones multiplataforma</strong>.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Teck Stack
 
 <p> 
    <img alt="Java" src="https://img.shields.io/badge/-Java-DA502E?style=flat-square&logo=java" />   
@@ -20,6 +20,8 @@
    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />   
    <img alt="Python" src="https://img.shields.io/badge/-Python-F1C40F?style=flat-square&logo=Python&logoColor=white" />   
    <img alt="PHP" src="https://img.shields.io/badge/-PHP-825E91?style=flat-square&logo=php&logoColor=white" />   
+   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-825E91?style=flat-square&logo=markdown" />   
+
 <p/>
 
 ## GitHub Status
