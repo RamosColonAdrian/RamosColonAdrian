@@ -1,14 +1,12 @@
-<p width="300">
-   <img width="200" src="https://github.com/RamosColonAdrian/RamosColonAdrian/blob/main/19362653.png?raw=true" /><br>
-   <h3>¡Hey there!👋🏻‍💻</h3>
-</p>
+
+<h2>¡Hey there!👋🏻‍💻</h3>
 <h2>⚡️ A Few Quick Facts<h2/>
 <ul>
    <li>📚I'm currently a cross-platform development student.<li/>
    <li>🧪 I'm learning about data science, machine learning and deep learning.<li/>
 <ul/>
 
-## My Teck Stack
+<h2>My Teck Stack<h2/>
 
 <p> 
    <img alt="Java" src="https://img.shields.io/badge/-Java-DA502E?style=flat-square&logo=java" />   
