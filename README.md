@@ -1,6 +1,6 @@
 <p width="300">
-   <img align="center" width="200" src="https://github.com/RamosColonAdrian/RamosColonAdrian/blob/main/19362653.png?raw=true" /><br>
-   <h3 align="center">¡Hey there!👋🏻‍💻</h3>
+   <img width="200" src="https://github.com/RamosColonAdrian/RamosColonAdrian/blob/main/19362653.png?raw=true" /><br>
+   <h3>¡Hey there!👋🏻‍💻</h3>
 </p>
 <p>Soy estudiante de <strong>desarrollo de aplicaciones multiplataforma</strong>.
    
