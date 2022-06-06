@@ -8,8 +8,8 @@
 
 <p> 
    <img alt="Java" src="https://img.shields.io/badge/-java-DA502E?style=flat-square&logo=java" />   
-   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />   
-   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />   
+   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
+   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-D35400?style=flat-square&logo=html5&logoColor=ffffff" />   
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />   
