@@ -16,6 +16,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Java](https://img.shields.io/badge/-java-DA502E?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3498DB?style=flat-square&logo=Python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2ECC71?style=flat-square&logo=mongodb)
+
 
 
 
