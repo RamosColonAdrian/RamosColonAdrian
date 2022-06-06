@@ -22,8 +22,6 @@
    <img alt="PHP" src="https://img.shields.io/badge/-PHP-825E91?style=flat-square&logo=php&logoColor=white" />   
 <p/>
 
-
-
 ## GitHub Status
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamosColonAdrian&show_icons=true)
