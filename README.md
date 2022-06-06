@@ -2,13 +2,12 @@
 <h1>¡Hey there!👋🏻‍💻</h1>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@AdriRamos_01-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdriRamos_01)](https://twitter.com/AdriRamos_01)
-[![Instagram Badge](https://img.shields.io/badge/-@AdriRamos_01-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/adriramos_01)](https://www.instagram.com/adriramos_01/) 
+
 [![Linkedin Badge](https://img.shields.io/badge/-AdrianRamosColon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adrián-ramos-colón-22587322b
 )](https://www.linkedin.com/in/adrián-ramos-colón-22587322b)
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-   <li>📚I'm currently a cross-platform development student.</li>
+   <li>📚I'm currently a cross-platform development.</li>
    <li>🧪 I'm learning about data science, machine learning and deep learning.</li>
 </ul>
 
