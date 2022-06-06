@@ -22,10 +22,10 @@
 
 
 ## GitHub Status
-<p align="center" width="300">
-   <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamosColonAdrian&show_icons=true)<p/>
-   <code>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamosColonAdrian&layout=compact)<code/>
-</p>
+<a align="center">
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamosColonAdrian&show_icons=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamosColonAdrian&layout=compact)
+</a>
 
 
 
