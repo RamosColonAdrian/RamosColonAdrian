@@ -36,7 +36,7 @@
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamosColonAdrian&show_icons=true)
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamosColonAdrian&layout=compact)
    
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=ramoscolonadrian" alt="visitors"></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=ramoscolonadrian.ramoscolonadrian" alt="visitors"></p>
 
 
 
