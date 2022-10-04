@@ -30,8 +30,8 @@
    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-%23282C34?style=flat-square&logo=markdown" /> 
    <img alt="Andorid" src="https://img.shields.io/badge/-Android-green?style=flat-square&logo=android&logoColor=white" />
    <img alt="C" src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C&logoColor=white" />
-   <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=C++&logoColor=white" /> 
-   <img alt="C#" src="https://img.shields.io/badge/-C#-green?style=flat-square&logo=C#&logoColor=white" /> 
+   <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c++&logoColor=white" /> 
+   <img alt="C#" src="https://img.shields.io/badge/-C#-green?style=flat-square&logo=c#&logoColor=white" /> 
 <p/>
 
 ## GitHub Status
