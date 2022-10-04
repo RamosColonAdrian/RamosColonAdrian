@@ -32,9 +32,9 @@
    <img alt="C" src="https://img.shields.io/badge/-C-blue?style=flat-square&logo=C&logoColor=white" />
    <img alt="C++" src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c++&logoColor=white" /> 
    <img alt="C#" src="https://img.shields.io/badge/-C#-green?style=flat-square&logo=c#&logoColor=white" /> 
+<p/>
    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<p/>
 
 ## GitHub Status
 
