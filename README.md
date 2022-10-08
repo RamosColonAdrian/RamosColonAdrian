@@ -1,17 +1,15 @@
 <img alt ="Logo" src="https://github.com/RamosColonAdrian/RamosColonAdrian/blob/main/logo.png"></img>
-<h1>¡Hey there!👋🏻‍💻</h1>
-
-
+# Hello Worrld!👋🏻‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-AdrianRamosColon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/adrián-ramos-colón-22587322b
-)](https://www.linkedin.com/in/adrián-ramos-colón-22587322b)
-##⚡️ A Few Quick Facts
-<ul>
-   <li>📚 I'm currently a cross-platform development.</li>
-   <li>🧪 I'm learning about data science, machine learning and deep learning.</li>
-</ul>
+)](https://www.linkedin.com/in/adrián-ramos-colón-22587322b)  
 
-## My Teck Stack
+## A Few Quick Facts 👀
+- 📚 I'm currently a cross-platform development.
+- 🧪 I'm learning about data science, machine learning and deep learning.
+
+
+## My Teck Stack⚡️
 ### Main tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-%8181ff.svg?style=for-the-badge&logo=mysql&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
    
